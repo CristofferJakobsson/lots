@@ -2,6 +2,6 @@
 
 int main(int argc, char *argv[])
 {
-  puts("#YOLO");
+  puts("#YOLO #SWAG");
   return 0;
 }
