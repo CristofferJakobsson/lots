@@ -2,6 +2,7 @@
 
 int main(int argc, char *argv[])
 {
-  puts("#YOLO"); // this is the shit!
+  puts("#YOLO #SWAG tigerpash");
+
   return 0;
 }
